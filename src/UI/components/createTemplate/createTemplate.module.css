@@ -1,0 +1,7 @@
+#createTemplateContainer {
+  background-color: #eeeef3;
+  height: 100%;
+}
+#gridItem:hover {
+  background-color: #e7e6ef !important;
+}

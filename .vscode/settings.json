@@ -1,0 +1,13 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true
+  },
+  "git.ignoreLimitWarning": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
